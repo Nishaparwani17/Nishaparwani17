@@ -1,57 +1,20 @@
-# 👋 Hi, I'm Nisha Parwani  
+<h1 align="center">Hi 👋, I'm Nisha Parwani</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-I’m a *Computer Science student* passionate about building user-friendly and creative web experiences.
-Currently improving my *front-end development* skills and exploring *data science concepts*.
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishaparwani17&label=Profile%20views&color=0e75b6&style=flat" alt="nishaparwani17" /> </p>
 
-## 🧠 Skills & Tools  
+- 🔭 I’m currently working on **Clothing website**
 
-*Languages*  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ⚡ Fun fact **- ☕ Coffee makes my code (and day) brighter. - ✨ I enjoy turning small ideas into working websites. - 📚 Currently learning something new every week. ---**
 
-*Tools:*  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nisha-parwani-54921331b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nisha-parwani-54921331b" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-## 🚀 Projects  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishaparwani17&show_icons=true&locale=en&layout=compact" alt="nishaparwani17" /></p>
 
-- *Online Food Ordering and Delivery System (University Project)*  
-  Designed a MySQL database with ER diagrams to manage customers, orders, and deliveries — ensuring data accuracy and smooth order tracking.  
-
-- *Portfolio Website*  
-  A personal portfolio created using HTML, CSS, and JavaScript to showcase my work and skills.  
-
-- *Decoration Website*  
-  Developed as part of an internship task, focused on responsive design and visual creativity.  
-
-- *Coffee Website*  
-  A fun project created using HTML, CSS, and basic JavaScript to practice front-end development.  
-
----
-
-## 📫 Contact Info  
-
-📧 *Email:* [nishaparwani03@gmail.com](mailto:nishaparwani03@gmail.com)  
-🔗 *LinkedIn:* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nisha-parwani-54921331b)
-
----
-
-## 🎉 Fun Facts  
-
-☕ *Coffee makes my code (and day) brighter.*  
-✨ *I enjoy turning small ideas into working websites.*  
-📚 *Currently learning something new every week!*
-
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my projects.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishaparwani17&" alt="nishaparwani17" /></p>
