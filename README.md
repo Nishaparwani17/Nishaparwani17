@@ -38,16 +38,16 @@ Improving my front-end development skills while exploring the world of data scie
 ---
 
 ### 🚀 Projects
-- *Online Food Ordering and Delivery System (University Project)*  
+- *Online Food Ordering and Delivery System (University Project)* :
   Designed a MySQL database with ER diagrams to manage customers, orders, and deliveries.  
 
-- *Portfolio Website*  
+- *Portfolio Website* :  
   Created using HTML, CSS, and JavaScript to showcase my work and skills.  
 
-- *Decoration Website*  
+- *Decoration Website* : 
   Developed as part of an internship task, focused on responsive design.  
 
-- *Coffee Website*  
+- *Coffee Website* : 
   A fun front-end project using HTML, CSS, and basic JS.  
 
 
