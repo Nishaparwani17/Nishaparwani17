@@ -15,8 +15,6 @@ Improving my front-end development skills while exploring the world of data scie
 ### 🧰 Skills & Tools
 ---
 
-🧰 Skills & Tools
-
 *Skills*  
 <p align="left">  
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
@@ -25,7 +23,6 @@ Improving my front-end development skills while exploring the world of data scie
   <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  
   <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a>  
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
 </p>
 
 *Tools*  
@@ -50,27 +47,27 @@ Improving my front-end development skills while exploring the world of data scie
 - *Coffee Website* : 
   A fun front-end project using HTML, CSS, and basic JS.  
 
-
 ---
 
 ### 📫 Contact Info
 
 <p align="left">
   <a href="mailto:nishaparwani03@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" width="30" height="30"/> Email
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="40" height="40"/>
   </a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nisha-parwani-54921331b" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/> LinkedIn
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a> &nbsp;&nbsp;
   <a href="https://github.com/nishaparwani17" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="30" height="30"/> GitHub
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   </a>
 </p>
+
 ---
 
 ### Fun Facts
 
--☕ Coffee makes my code (and day) brighter.
+-☕ Coffee makes my code (and day) brighter. 
 -✨ I enjoy turning small ideas into working websites.
 -📚 Currently learning something new every week!
 
