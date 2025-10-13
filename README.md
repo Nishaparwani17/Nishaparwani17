@@ -32,20 +32,26 @@ Improving my front-end development skills while exploring the world of data scie
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>  
 </p>
+
 ---
 
-### 🚀 Projects
-- *Online Food Ordering and Delivery System (University Project)* :
-  Designed a MySQL database with ER diagrams to manage customers, orders, and deliveries.  
+<h3 align="left">🚀 Projects:</h3>
 
-- *Portfolio Website* :  
-  Created using HTML, CSS, and JavaScript to showcase my work and skills.  
+<p align="left">
 
-- *Decoration Website* : 
-  Developed as part of an internship task, focused on responsive design.  
+🍽 <b>Online Food Ordering and Delivery System (University Project):</b><br>
+Designed a MySQL database with ER diagrams to manage customers, orders, and deliveries.<br><br>
 
-- *Coffee Website* : 
-  A fun front-end project using HTML, CSS, and basic JS.  
+💼 <b>Portfolio Website:</b><br>
+Created using HTML, CSS, and JavaScript to showcase my work and skills.<br><br>
+
+🎀 <b>Decoration Website:</b><br>
+Developed as part of an internship task, focused on responsive and modern design.<br><br>
+
+☕ <b>Coffee Website:</b><br>
+A fun front-end project using HTML, CSS, and basic JavaScript.
+
+</p>
 
 ---
 
@@ -65,15 +71,17 @@ Improving my front-end development skills while exploring the world of data scie
 
 ---
 
-### Fun Facts
+<h3 align="left">✨ Fun Facts:</h3>
 
--☕ Coffee makes my code (and day) brighter. 
--✨ I enjoy turning small ideas into working websites.
--📚 Currently learning something new every week!
+<p align="left">
+☕ Coffee makes my code and day brighter.<br><br>
+✨ I enjoy turning small ideas into working websites.<br><br>
+📚 Currently learning something new every week!
+</p>
 
 ---
 
-### 📊 GitHub Stats (Optional)
+### 📊 GitHub Stats 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishaparwani17&show_icons=true&locale=en&layout=compact" alt="nishaparwani17" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishaparwani17&show_icons=true&locale=en" alt="nishaparwani17" /></p>
